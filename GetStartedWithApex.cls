@@ -1,6 +1,6 @@
 Challenge 3:
 /*
-Create an Apex class with a method that returns an array (or list) of strings.
+Create an Apex class with a method that returns an array (or list) of strings
 Create an Apex class with a method that returns an array (or list) of formatted strings ('Test 0', 'Test 1', ...). The length of the array is determined by an integer parameter.
 The Apex class must be called StringArrayTest and be in the public scope
 The Apex class must have a public static method called generateStringArray
